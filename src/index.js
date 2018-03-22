@@ -17,4 +17,5 @@ ReactDOM.render(
     meInReact,
     document.getElementById('global')
 );
+
 export default meInReact
